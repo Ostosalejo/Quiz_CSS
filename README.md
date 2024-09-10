@@ -1,4 +1,5 @@
 echo "# Quiz_CSS trabajo hecho de 1-10
+
 1-Backgrounds
 2-Borders
 3-Margins
@@ -13,4 +14,4 @@ echo "# Quiz_CSS trabajo hecho de 1-10
 
 ## Integrantes:
 - Juan Felipe Fajardo
-- Alejandro Ostos" > README.md
+- Alejandro Ostos" 
